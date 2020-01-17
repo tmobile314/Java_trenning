@@ -1,3 +1,2 @@
 Hello! It's the first line.
 Hi, it's the second line.
-Yo, bro! It's the third line.
